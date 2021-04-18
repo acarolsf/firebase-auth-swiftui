@@ -1,0 +1,6 @@
+framework module Pods_firebase_login_swiftui {
+  umbrella header "Pods-firebase-login-swiftui-umbrella.h"
+
+  export *
+  module * { export * }
+}
